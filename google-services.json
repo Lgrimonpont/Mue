@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48980724314",
+    "firebase_url": "https://muedb-e31b8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "muedb-e31b8",
+    "storage_bucket": "muedb-e31b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48980724314:android:25d8355f9e68317e28a663",
+        "android_client_info": {
+          "package_name": "com.kornephoros.mue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48980724314-pciqgrcq8oboibvtrcg83bcn78eg96hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPWvjqjNxUx8BdphvTvo7KucZ1Hj6Pc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48980724314-pciqgrcq8oboibvtrcg83bcn78eg96hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
